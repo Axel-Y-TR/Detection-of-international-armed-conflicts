@@ -19,7 +19,7 @@ And the UCDP for all data relating to armed conflicts and their history.
 Data_cleaning: 
 
 This file contains the code used to clean up the dataset created in the data_collection file. In particular, it fills in the NaN Values and saves the new dataset in a DB(Mysql Workbench). 
-The output of this code is a dataframe of 1074 rows and 93 columns, which will then be used for the maching learning stage. 
+The output of this code is a dataframe of 1074 rows and 95 columns, which will then be used for the maching learning stage. 
 
 ML:
 
