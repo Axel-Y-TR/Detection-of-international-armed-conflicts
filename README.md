@@ -25,6 +25,31 @@ ML:
 
 This file contains the code needed to carry out the maching learning part of the process, which includes pre-processing, feature selection, testing several ML models, tuning the model, testing the model and finally making predictions for 2020-2024. 
 
+# Test results 
+
+ML Model : Random Forest
+
+Hyperparameters used : 
+Bootstrap: True,
+Max_depth: 6,
+min_sample _leaf: 3,
+min_sample_split: 9,
+n_estimator: 200,
+
+ROC AUC Test score: 0.97
+
+With a threshold of 0.4
+
+Precision: 85.4%
+
+Recall: 80.4%
+
+
+ 
+ 
+
+
+
 
 10 Columns used following the RFECV:
 ------------------------------------------------------------------------------
