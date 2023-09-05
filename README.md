@@ -25,6 +25,17 @@ ML:
 
 This file contains the code needed to carry out the maching learning part of the process, which includes pre-processing, feature selection, testing several ML models, tuning the model, testing the model and finally making predictions for 2020-2024. 
 
+# How to use and view the solution
+
+If you just want to see how it all works, or if you want to see the predictions for 2020-2024 straight away. 
+
+You just need to fork the repository, and run the notes book in the following order:
+
+- Data_collection
+- Data_cleaning
+- ML
+
+
 # Test results 
 
 ML Model : Random Forest
