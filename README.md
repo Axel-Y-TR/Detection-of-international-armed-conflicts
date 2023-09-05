@@ -29,7 +29,7 @@ This file contains the code needed to carry out the maching learning part of the
 
 If you just want to see how it all works, or if you want to see the predictions for 2020-2024 straight away. 
 
-You just need to fork the repository, and run the notes book in the following order:
+You just need to fork the repository, and run the notebooks in the following order:
 
 - Data_collection
 - Data_cleaning
